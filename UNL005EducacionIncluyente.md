@@ -4,7 +4,6 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 ## Nombre del proyecto
 **Chapiaula**
 ## INTEGRANTES
-1. William Olaya
 2. Edna Margarita Rodriguez
 3. Jhoan Fabian Tapia
 4. Sergio Gomez
