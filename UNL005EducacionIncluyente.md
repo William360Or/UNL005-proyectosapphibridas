@@ -4,11 +4,9 @@ busca proyectar los cursos disponibles en la localidad de chapinero en una app
 ## Nombre del proyecto
 **Chapiaula**
 ## INTEGRANTES
-1. William Olaya
-2. Edna Margarita Rodriguez
-3. Jhoan Fabian Tapia
-4. Sergio Gomez
-5. Sergio Ortiz
+1. Edna Margarita Rodriguez
+2. Sergio Gomez
+3. Sergio Ortiz
 
 # Descripción del proyecto:
 la misión es mostrar como con por medio de una aplicacion se busca ofrecer al publico y a la comunidad estudiantil una variedad de cursos que genere un crecimiento formativo para personas que tengan acceso a una educación limitada.
